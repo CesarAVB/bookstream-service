@@ -1,3 +1,9 @@
+## [1.3.0](https://github.com/CesarAVB/bookstream-service/compare/v1.2.0...v1.3.0) (2026-02-23)
+
+### Features
+
+* Atualiza workflow de publicação Docker para acionar em lançamentos ([859e82e](https://github.com/CesarAVB/bookstream-service/commit/859e82ebdadff064091ab434ea29156145244118))
+
 ## [1.2.0](https://github.com/CesarAVB/bookstream-service/compare/v1.1.0...v1.2.0) (2026-02-23)
 
 ### Features
