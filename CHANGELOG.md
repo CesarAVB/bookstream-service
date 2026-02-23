@@ -1,3 +1,9 @@
+## [1.4.0](https://github.com/CesarAVB/bookstream-service/compare/v1.3.0...v1.4.0) (2026-02-23)
+
+### Features
+
+* Adiciona permissão de execução para o script mvnw no workflow de ([800fc8f](https://github.com/CesarAVB/bookstream-service/commit/800fc8fac62421c406652b7e1f208127972d67e9))
+
 ## [1.3.0](https://github.com/CesarAVB/bookstream-service/compare/v1.2.0...v1.3.0) (2026-02-23)
 
 ### Features
