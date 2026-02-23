@@ -1,3 +1,12 @@
+## [1.2.0](https://github.com/CesarAVB/bookstream-service/compare/v1.1.0...v1.2.0) (2026-02-23)
+
+### Features
+
+* Adiciona classe ErrorResponse para padronização de respostas de ([b7c7bda](https://github.com/CesarAVB/bookstream-service/commit/b7c7bdada975d8b7b38871aab100545e305fa57a))
+* Adiciona Dockerfile para construção e execução da aplicação ([02fbbad](https://github.com/CesarAVB/bookstream-service/commit/02fbbad6395080c4ba87275dd1e59aad3e1f4503))
+* Adiciona manipulador global de exceções para tratamento de erros ([7873ed0](https://github.com/CesarAVB/bookstream-service/commit/7873ed0c84d11ba431dc22488f3111dd1f26a626))
+* Adiciona workflow para construção e publicação de imagens Docker ([5a4dbc6](https://github.com/CesarAVB/bookstream-service/commit/5a4dbc6278307d4e36f0e9a4ab368c614272bcb0))
+
 ## [1.1.0](https://github.com/CesarAVB/bookstream-service/compare/v1.0.0...v1.1.0) (2026-02-23)
 
 ### Features
