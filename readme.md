@@ -11,18 +11,6 @@ Microsserviço para gerenciamento e streaming de conteúdo digital. Suporta livr
 
 ---
 
-## 📋 Sumário
-
-- [Funcionalidades](#-funcionalidades)
-- [Tecnologias](#-tecnologias)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Configuração](#-configuração)
-- [Endpoints](#-endpoints)
-- [Fluxo de Cadastro](#-fluxo-de-cadastro)
-- [Como Executar](#-como-executar)
-
----
-
 ## ✅ Funcionalidades
 
 - Cadastro de livros com metadados (nome, autor, gênero, ISBN, ano)
