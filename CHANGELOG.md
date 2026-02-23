@@ -1,3 +1,9 @@
+## [1.5.0](https://github.com/CesarAVB/bookstream-service/compare/v1.4.0...v1.5.0) (2026-02-23)
+
+### Features
+
+* Adiciona arquivo docker-compose.yml para configuração do serviço ([4be1e29](https://github.com/CesarAVB/bookstream-service/commit/4be1e292653be03fe77cf8d3dbdff7a155658383))
+
 ## [1.4.0](https://github.com/CesarAVB/bookstream-service/compare/v1.3.0...v1.4.0) (2026-02-23)
 
 ### Features
