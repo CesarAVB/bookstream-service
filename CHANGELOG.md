@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/CesarAVB/bookstream-service/compare/v1.0.0...v1.1.0) (2026-02-23)
+
+### Features
+
+* Adiciona controlador LivroController com endpoints para ([9b576ad](https://github.com/CesarAVB/bookstream-service/commit/9b576ad5b275f2fc9317d652af32816bd44221de))
+
 ## 1.0.0 (2026-02-23)
 
 ### Features
