@@ -23,7 +23,7 @@ public class MinioService {
     private final S3Client s3Client;
     private final S3Presigner s3Presigner;
 
-    @Value("${minio.bucket.nome}")
+    @Value("${minio.bucket-name}")
     private String bucket;
 
     @Value("${minio.link.expiracao-minutos}")
