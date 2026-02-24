@@ -1,3 +1,11 @@
+## [1.8.0](https://github.com/CesarAVB/bookstream-service/compare/v1.7.0...v1.8.0) (2026-02-24)
+
+### Features
+
+* Atualiza CHANGELOG.md para versão 1.7.0 com novas funcionalidades ([5dccb58](https://github.com/CesarAVB/bookstream-service/commit/5dccb58157994d9f580a0006976172e183584503))
+* Atualiza configuração do banco de dados no ([968e2e4](https://github.com/CesarAVB/bookstream-service/commit/968e2e4168362e66acc61c215f1ce8891ec10a94))
+* Corrige permissão do Maven Wrapper e melhora cache de build ([6a24b48](https://github.com/CesarAVB/bookstream-service/commit/6a24b481efec6c318391b3984a522740a9dac51f))
+
 ## [1.7.0](https://github.com/CesarAVB/bookstream-service/compare/v1.6.0...v1.7.0) (2026-02-24)
 
 ### Features
