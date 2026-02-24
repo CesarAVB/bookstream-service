@@ -1,3 +1,9 @@
+## [1.13.0](https://github.com/CesarAVB/bookstream-service/compare/v1.12.0...v1.13.0) (2026-02-24)
+
+### Features
+
+* Adiciona logging detalhado para configuração de CORS e filtro de ([2bd9590](https://github.com/CesarAVB/bookstream-service/commit/2bd9590b8f683a94f0a3d9b74dc11f8f938ae81f))
+
 ## [1.12.0](https://github.com/CesarAVB/bookstream-service/compare/v1.11.0...v1.12.0) (2026-02-24)
 
 ### Features
