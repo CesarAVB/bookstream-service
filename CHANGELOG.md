@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/CesarAVB/bookstream-service/compare/v1.5.0...v1.5.1) (2026-02-23)
+
+### Bug Fixes
+
+* Ativa a chave de configuração do bucket do Minio para ([cfba2e1](https://github.com/CesarAVB/bookstream-service/commit/cfba2e161fbe6198b0e76edc4ffc76200b7f59af))
+* Corrige a chave de configuração do bucket do Minio para ([2b3764c](https://github.com/CesarAVB/bookstream-service/commit/2b3764c9677b35ad7d855eee98ea6046e6ea9eff))
+
 ## [1.5.0](https://github.com/CesarAVB/bookstream-service/compare/v1.4.0...v1.5.0) (2026-02-23)
 
 ### Features
