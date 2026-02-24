@@ -1,3 +1,9 @@
+## [1.11.0](https://github.com/CesarAVB/bookstream-service/compare/v1.10.0...v1.11.0) (2026-02-24)
+
+### Features
+
+* Adiciona configuração de CORS para permitir requisições do ([e45c18c](https://github.com/CesarAVB/bookstream-service/commit/e45c18cd8c6c14f79a22cc64a206b6f47e4c4c57))
+
 ## [1.10.0](https://github.com/CesarAVB/bookstream-service/compare/v1.9.0...v1.10.0) (2026-02-24)
 
 ### Features
