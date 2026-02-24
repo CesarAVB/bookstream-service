@@ -70,6 +70,12 @@
 			<artifactId>spring-boot-starter-validation</artifactId>
 		</dependency>
 		
+		<!-- SPRING BOOT STARTER SECURITY - Starter para segurança da aplicação (autenticação e autorização) -->
+		<dependency>
+		    <groupId>org.springframework.boot</groupId>
+		    <artifactId>spring-boot-starter-security</artifactId>
+		</dependency>
+		
 		<!-- SPRING WEB - Starter para aplicações web (inclui Web MVC e REST) -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
