@@ -1,3 +1,16 @@
+## [1.6.0](https://github.com/CesarAVB/bookstream-service/compare/v1.5.1...v1.6.0) (2026-02-24)
+
+### Features
+
+* Adiciona classes de requisição e resposta para o cadastro de ([6778f32](https://github.com/CesarAVB/bookstream-service/commit/6778f3265895363bc80af32f982c168d9141161f))
+* Adiciona configuração de segurança com JWT e BCryptPasswordEncoder ([0aab390](https://github.com/CesarAVB/bookstream-service/commit/0aab39075a9ae83a67d7cb88c6a88c2c6d6d388e))
+* Adiciona dependência do Spring Boot Starter Security para ([79bc5a2](https://github.com/CesarAVB/bookstream-service/commit/79bc5a27f725e6b7632393075d067c6edfcce8a4))
+* Adiciona o controlador UsuarioController para gerenciamento de ([3c580bb](https://github.com/CesarAVB/bookstream-service/commit/3c580bbbabaafcd82bc8ef51ee289f780ca1a304))
+* Cria a classe Usuario para representar usuários no sistema ([0467775](https://github.com/CesarAVB/bookstream-service/commit/0467775a90fd9a996429d96410e4dc504affe528))
+* Cria a classe UsuarioService para gerenciamento de usuários ([73b4c89](https://github.com/CesarAVB/bookstream-service/commit/73b4c89167999b0428e5a26c70625e5a512b48f5))
+* Cria a entidade Usuario com atributos e anotações JPA ([92022e0](https://github.com/CesarAVB/bookstream-service/commit/92022e0aae439d3decf45f739d61af0b1f90685b))
+* Cria o repositório UsuarioRepository para gerenciamento de ([baa7caa](https://github.com/CesarAVB/bookstream-service/commit/baa7caa03380474d840abe3f0879fe9715b01bd5))
+
 ## [1.5.1](https://github.com/CesarAVB/bookstream-service/compare/v1.5.0...v1.5.1) (2026-02-23)
 
 ### Bug Fixes
