@@ -1,3 +1,10 @@
+## [1.12.0](https://github.com/CesarAVB/bookstream-service/compare/v1.11.0...v1.12.0) (2026-02-24)
+
+### Features
+
+* Adiciona logging detalhado para autenticação e registro de ([fbeb45b](https://github.com/CesarAVB/bookstream-service/commit/fbeb45b5a22451e0fdc27725cede8917a8bdcdd9))
+* Remove UsuarioService class as part of refactoring ([489d081](https://github.com/CesarAVB/bookstream-service/commit/489d0811405117a312ffba7878519461b51682a1))
+
 ## [1.11.0](https://github.com/CesarAVB/bookstream-service/compare/v1.10.0...v1.11.0) (2026-02-24)
 
 ### Features
