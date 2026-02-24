@@ -1,3 +1,16 @@
+## [1.9.0](https://github.com/CesarAVB/bookstream-service/compare/v1.8.0...v1.9.0) (2026-02-24)
+
+### Features
+
+* Adiciona AuthController com endpoints de login e registro de ([f928d82](https://github.com/CesarAVB/bookstream-service/commit/f928d82d25e9fd6836905d822d3ff4a59ea740fe))
+* Adiciona AuthService com métodos de login e registro de usuários ([4d9f03b](https://github.com/CesarAVB/bookstream-service/commit/4d9f03bd5fc36cdf54874f4110865a849786cc50))
+* Adiciona configuração de JWT no application-prod.properties ([8ba6896](https://github.com/CesarAVB/bookstream-service/commit/8ba6896708cc7295782acce1d0913939f856979b))
+* Adiciona dependências do JJWT para criação e validação de tokens ([9ab8906](https://github.com/CesarAVB/bookstream-service/commit/9ab8906c0343326595426bc8f15c1b4b15f5ed88))
+* Adiciona DTOs para requisição e resposta de login ([84943e3](https://github.com/CesarAVB/bookstream-service/commit/84943e328fa09d356a4cd5c09782e0c0c62457c8))
+* Adiciona filtro de autenticação JWT para validação de tokens ([22122a1](https://github.com/CesarAVB/bookstream-service/commit/22122a11cf4b093e4783a9b76ed7cbe1bd08e16b))
+* Adiciona JwtService para geração e validação de tokens JWT ([28cac12](https://github.com/CesarAVB/bookstream-service/commit/28cac1205f3d23c54f287d23aa559a81554f4745))
+* Remove UsuarioController and its associated endpoints ([154e7ad](https://github.com/CesarAVB/bookstream-service/commit/154e7adb99d86d105bf7ec2e2800e5e6a5f409e4))
+
 ## [1.8.0](https://github.com/CesarAVB/bookstream-service/compare/v1.7.0...v1.8.0) (2026-02-24)
 
 ### Features
