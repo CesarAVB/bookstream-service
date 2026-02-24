@@ -1,3 +1,9 @@
+## [1.10.0](https://github.com/CesarAVB/bookstream-service/compare/v1.9.0...v1.10.0) (2026-02-24)
+
+### Features
+
+* Renomeia tabela de usuários para cliente_auth ([e30d47d](https://github.com/CesarAVB/bookstream-service/commit/e30d47d967c11697f85fb97701720c2f8391d9df))
+
 ## [1.9.0](https://github.com/CesarAVB/bookstream-service/compare/v1.8.0...v1.9.0) (2026-02-24)
 
 ### Features
