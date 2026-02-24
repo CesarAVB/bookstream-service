@@ -1,3 +1,10 @@
+## [1.7.0](https://github.com/CesarAVB/bookstream-service/compare/v1.6.0...v1.7.0) (2026-02-24)
+
+### Features
+
+* Atualiza CHANGELOG.md para versão 1.6.0 com novas funcionalidades ([ed62b22](https://github.com/CesarAVB/bookstream-service/commit/ed62b22a358af12caa2dbf2c92a20312ae7082bb))
+* Substitui docker-compose.yml por docker-compose.yaml ([5412735](https://github.com/CesarAVB/bookstream-service/commit/5412735d0986ffcae9fc5c158a2df14499098bbe))
+
 ## [1.6.0](https://github.com/CesarAVB/bookstream-service/compare/v1.5.1...v1.6.0) (2026-02-24)
 
 ### Features
