@@ -6,10 +6,15 @@ WORKDIR /app
 
 COPY .mvn/ .mvn/
 COPY mvnw pom.xml ./
-RUN ./mvnw dependency:go-offline -q
+
+# 🔥 Corrige permissão do Maven Wrapper
+RUN chmod +x mvnw
+
+# Baixa dependências primeiro (melhor cache de build)
+RUN ./mvnw dependency:go-offline -B
 
 COPY src/ src/
-RUN ./mvnw clean package -DskipTests -q
+RUN ./mvnw clean package -DskipTests -B
 
 # -------------------------------------------------------
 # Stage 2 - Runtime
