@@ -89,6 +89,29 @@
 			<scope>runtime</scope>
 		</dependency>
 		
+		<!-- JSON WEB TOKEN (JWT) - Biblioteca para criação e validação de tokens JWT -->
+		<dependency>
+		    <groupId>io.jsonwebtoken</groupId>
+		    <artifactId>jjwt-api</artifactId>
+		    <version>0.11.5</version>
+		</dependency>
+		
+		<!-- Implementação do JJWT usando Jackson para serialização JSON -->
+		<dependency>
+		    <groupId>io.jsonwebtoken</groupId>
+		    <artifactId>jjwt-impl</artifactId>
+		    <version>0.11.5</version>
+		    <scope>runtime</scope>
+		</dependency>
+		
+		<!-- Implementação do JJWT usando Jackson para serialização JSON -->
+		<dependency>
+		    <groupId>io.jsonwebtoken</groupId>
+		    <artifactId>jjwt-jackson</artifactId>
+		    <version>0.11.5</version>
+		    <scope>runtime</scope>
+		</dependency>
+		
 		<!-- LOMBOK - Biblioteca para reduzir boilerplate com annotations -->
 		<dependency>
 			<groupId>org.projectlombok</groupId>
