@@ -1,3 +1,10 @@
+## [1.14.0](https://github.com/CesarAVB/bookstream-service/compare/v1.13.0...v1.14.0) (2026-02-25)
+
+### Features
+
+* Adiciona suporte a links públicos para arquivos e capas no MinIO ([018c968](https://github.com/CesarAVB/bookstream-service/commit/018c968e8c48c43e4f0cd3cc16bd647f2e2abcfd))
+* Configura limites de tamanho para uploads de arquivos e adiciona ([62bfef2](https://github.com/CesarAVB/bookstream-service/commit/62bfef22f18c8ad7cd8ca2557e4051a095f12977))
+
 ## [1.13.0](https://github.com/CesarAVB/bookstream-service/compare/v1.12.0...v1.13.0) (2026-02-24)
 
 ### Features
